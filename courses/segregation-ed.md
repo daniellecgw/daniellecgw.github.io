@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Quantum Mechanics"
+title: "Segregation in Education: Past and Present"
 ---
 
-#### Course Information
+<!-- #### Course Information
 
 [Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
 
@@ -31,4 +31,4 @@ title: "Quantum Mechanics"
 
 #### Exams
 
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
+[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf) -->
