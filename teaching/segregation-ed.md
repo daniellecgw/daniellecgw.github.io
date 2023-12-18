@@ -1,7 +1,13 @@
 ---
 layout: page
-title: "The "
+title: "The Evolution of Segregation and Education"
 ---
+
+#### Office Hours
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/daniellecgw/ec970-office-hours" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 <!-- #### Course Information
 
