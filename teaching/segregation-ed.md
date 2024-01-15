@@ -2,6 +2,17 @@
 layout: page
 title: "The Evolution of Segregation and Education"
 ---
+[Syllabus](https://github.com/daniellecgw/segregation-ed/syllabus)
+
+[Class Repository](https://github.com/daniellecgw/segregation-ed/)
+
+#### Handouts
+[Education and Segregation Data Guide](/teaching/segregation-ed/data_handout.pdf)
+
+#### Assignments
+All assignments are posted on [canvas](https://canvas.harvard.edu/courses/126957)
+
+Turn in Stata / R problem sets on [this page](https://canvas.harvard.edu/courses/19323)
 
 #### Office Hours
 I encourage you to come to office hours! 
