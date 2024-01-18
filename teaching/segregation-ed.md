@@ -11,9 +11,11 @@ title: "The Evolution of Segregation and Education"
 [Education and Segregation Data Guide](https://github.com/daniellecgw/segregation-ed/blob/main/handouts/data_handout.pdf)
 
 #### Assignments
-All assignments are posted on [canvas](https://canvas.harvard.edu/courses/126957)
+All assignments descriptions are in the class repository.
 
-Turn in Stata / R problem sets on [this page](https://canvas.harvard.edu/courses/19323)
+Turn in all assignments here: [canvas](https://canvas.harvard.edu/courses/126957)
+
+See Stata / R PSETS here: [this page](https://canvas.harvard.edu/courses/19323)
 
 #### Office Hours
 I encourage you to come to office hours! 
