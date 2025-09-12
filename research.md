@@ -9,18 +9,21 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ---
 
-## 📝 Working Papers
+## Working Papers
 
 ### Segregation Academies: The Effect of "Whites Only" Private Education  
-[📄 Draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
+[ Draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
 
 *New draft with long-term impacts on students coming soon (with Jennifer Withrow) – September 2025*  
 
 **Media Coverage:**  
 - [ProPublica](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
+---
+
+### The Effects of Preserving Segregation: Evidence from All-White Private Schools
 <details>
-  <summary><strong>The Effects of Preserving Segregation: Evidence from All-White Private Schools</strong> (with Michael Holcomb)</summary>
+  <summary>(with Michael Holcomb)</summary>
   <p>
   Institutionalized backlash may be an important mediator of social progress. In the post-Brown v. Board (1954) U.S. South, white citizens established de jure segregationist private schools. These “segregation academies” effectively impeded efforts to integrate schools, especially in rural areas (Williamson, 2024).  
   </p>
@@ -33,7 +36,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ---
 
-## 📝 Works in Progress
+## Works in Progress
 
 ### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
