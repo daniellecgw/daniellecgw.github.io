@@ -26,24 +26,8 @@ permalink: /art/
     <img src="/assets/img/zoby.png" alt="Project 3">
   </a>
 
-  <a href="/assets/img/turtle.png">
-    <img src="/assets/img/turtle.png" alt="Project 4">
-  </a>
-
-  <a href="/assets/img/sugarglider.png">
-    <img src="/assets/img/sugarglider.png" alt="Project 4">
-  </a>
-
-  <a href="/assets/img/rhino.png">
-    <img src="/assets/img/rhino.png" alt="Project 4">
-  </a>
-
   <a href="/assets/img/ollie.png">
     <img src="/assets/img/ollie.png" alt="Project 4">
-  </a>
-
-  <a href="/assets/img/goat.png">
-    <img src="/assets/img/goat.png" alt="Project 4">
   </a>
 
 </div>
