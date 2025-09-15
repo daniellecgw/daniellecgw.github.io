@@ -52,3 +52,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ### Divorce and Retirement 
 *(with Rachel Vogt)*  
+
+---
+
+### Integrated by Race, Segregated by Sex: Same-Sex Education in the Wake of Brown

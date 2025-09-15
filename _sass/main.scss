@@ -24,7 +24,7 @@ blockquote {
 // --- Public Goods Gallery ---
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 200px));
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 15px;
 }
 
@@ -34,15 +34,20 @@ blockquote {
 }
 
 .gallery img {
-  width: 180px;          // take up full width of its grid cell
-  max-width: 250px;     // but never bigger than 250px
+  width: 100%;
+  max-width: 150px;          /* small default size */
   height: auto;
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  transition: transform 0.2s ease;
-  margin: 0 auto;       // center images inside their cell
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  margin: 0 auto;
+  position: relative;        /* needed so z-index works */
+  z-index: 0;
 }
 
 .gallery img:hover {
-  transform: scale(1.05);
+  transform: scale(2);       /* pop out bigger */
+  z-index: 10;               /* hover image floats above neighbors */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.3);
 }
+
