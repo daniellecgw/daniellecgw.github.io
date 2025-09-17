@@ -63,8 +63,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 As a staff economist on the Council of Economic Advisers, I contributed to internal and external policy memos and briefs on topics including (but not limited to) health insurance and markets, child care, social insurance, and higher education financing. Notable examples are linked below.
 
-## [Chapter 7: The K-12 Education System: Economic Impacts and Opportunities for Innovation of the 2025 Economic Report of the President**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf)
+- [**Chapter 7: The K-12 Education System: Economic Impacts and Opportunities for Innovation of the 2025 Economic Report of the President**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf)
 
 ---
 
-## [Economic Security of Older Women**](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/20/economic-security-of-older-women/)
+- [**Economic Security of Older Women**](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/20/economic-security-of-older-women/)
