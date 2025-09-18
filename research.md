@@ -11,7 +11,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ## Working Papers
 
-### Segregation Academies: The Effect of "Whites Only" Private Education  
+### Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students
 [ Draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
 
 *New draft with long-term impacts on students coming soon (with Jennifer Withrow) – September 2025*  
@@ -19,9 +19,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 **Media Coverage:**  
 - [ProPublica](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
----
 
-### The Effects of Preserving Segregation: Evidence from All-White Private Schools
+### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools
 <details>
   <summary>(with Michael Holcomb)</summary>
   <p>
@@ -34,9 +33,6 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 *Draft available upon request*  
 
----
-
-## Works in Progress
 
 ### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
@@ -45,15 +41,13 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ---
 
+## Works in Progress
+
 ### The Women’s Ku Klux Klan and Education in the 1920s  
 *(with Peter Nencka)*  
 
----
-
 ### Divorce and Retirement 
 *(with Rachel Vogt)*  
-
----
 
 ### Integrated by Race, Segregated by Sex: Same-Sex Education in the Wake of Brown
 
@@ -64,7 +58,5 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 As a staff economist on the Council of Economic Advisers, I contributed to internal and external policy memos and briefs on topics including (but not limited to) health insurance and markets, child care, social insurance, and higher education financing. Notable examples are linked below.
 
 - [**Chapter 7: The K-12 Education System: Economic Impacts and Opportunities for Innovation of the 2025 Economic Report of the President**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf)
-
----
 
 - [**Economic Security of Older Women**](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/20/economic-security-of-older-women/)
