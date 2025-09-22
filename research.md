@@ -12,12 +12,9 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ### Working Papers
 
 ##### Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students
-[ Draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
-- Updated draft pending Census approval
-
-
-**Media Coverage:**  
-- [ProPublica](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
+- [Previous draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
+- Updated draft with long term pending Census approval
+- [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
 
 ##### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools
@@ -32,13 +29,11 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ##### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
 
-*Draft coming soon*  
-
 ---
 
 ### Works in Progress
 
-##### The Women’s Ku Klux Klan a**nd Education in the 1920s* 
+##### The Women’s Ku Klux Klan and Education in the 1920s 
 *(with Peter Nencka)*  
 
 ##### Divorce and Retirement 
