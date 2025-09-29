@@ -3,6 +3,42 @@ $bodyColor: #000000;
 $bodyFont: 'Merriweather', Georgia, serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $linkColor: #212529 !important;
 
+// Colors
+$bodyColor: #222; // dark gray for body text
+
+// Heading color palette (adjust to taste)
+$h1Color: #003366; // deep navy
+$h2Color: #004080; // strong blue
+$h3Color: #00509e; // medium blue
+$h4Color: #3366cc; // softer blue
+$h5Color: #5c85d6; // lighter blue
+$h6Color: #99b3e6; // pale blue
+
+// Base body
+body {
+  font-family: $bodyFont;
+  font-size: 15px;
+  line-height: 1.5;
+  color: $bodyColor;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+// Headings
+h1 { color: $h1Color; font-weight: 700; }
+h2 { color: $h2Color; font-weight: 700; }
+h3 { color: $h3Color; font-weight: 600; }
+h4 { color: $h4Color; font-weight: 600; }
+h5 { color: $h5Color; font-weight: 500; }
+h6 { color: $h6Color; font-weight: 500; }
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
 body {
   background: $backgroundColor;
   color: $bodyColor;
@@ -11,13 +47,6 @@ body {
 
 body a {
   color: $linkColor
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $headingFontWeight;
-  line-height: 1.2;  // compact headings
-  margin-top: $bodySpacing;
-  margin-bottom: 0.5 * $bodySpacing;
 }
 
 blockquote {
