@@ -16,10 +16,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 - [Previous draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
 - [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
-##### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools
-*(with Michael Holcomb)* 
-- [Paper](assets/files/20250924_draft.pdf)
-
+##### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools 
+*(with Michael Holcomb)* [link](assets/files/20250924_draft.pdf)
 
 ##### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
