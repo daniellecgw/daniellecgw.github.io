@@ -12,19 +12,14 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ### Working Papers
 
 ##### Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students
+- *Pending Census Bureau approval for circulation*: Job Market paper featuring long term effects on students. Please e-mail for draft (results approved for disclosure).
 - [Previous draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
-- Updated draft with long term pending Census approval
 - [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
-
 
 ##### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools
 *(with Michael Holcomb)* 
-  <p>
-  Institutionalized backlash may be an important mediator of social progress. In the post-Brown v. Board (1954) U.S. South, white citizens established de jure segregationist private schools. These “segregation academies” effectively impeded efforts to integrate schools, especially in rural areas (Williamson, 2025).  
-  </p>
-  <p>
-  In this paper, we study the consequences of this preservation of segregation on historical voting behavior and later racial attitudes in the Southeast. We argue that segregation academies entrenched a culture of racial division in places that otherwise would have made steps toward integration. Using difference-in-differences designs around the openings of segregation academies, we find a shift in anti-Black racial attitudes in White respondents in treated counties and a decline in local Black political representation. We discuss potential explanations for these patterns and extensions for future work.
-  </p>
+- [Paper](assets/files/20250924_draft.pdf)
+
 
 ##### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
