@@ -26,8 +26,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ### Works in Progress
 
-##### The Women’s Ku Klux Klan and Education in the 1920s 
-*(with Peter Nencka)*  
+##### The Other Ku Klux Klan: Women and the War on Schools
+*(with Peter Nencka)*  [(extended abstract)](assets/files/WKKK.pdf)
 
 ##### Divorce and Retirement 
 *(with Rachel Vogt)*
