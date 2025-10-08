@@ -12,12 +12,11 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ### Working Papers
 
 ##### Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students
-*(with Jennifer Withrow)* [(PDF)](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0) **(job market paper)**
-- [Previous draft: Impact on Public Schools (PDF)](assets/files/williamson_segac.pdf)  
+*(with Jennifer Withrow)* [(draft)](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0) **(job market paper)**
 - [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
 ##### How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools 
-*(with Michael Holcomb)* [(PDF)](assets/files/williamson_segac_attitudes.pdf)
+*(with Michael Holcomb)* [(draft)](assets/files/williamson_segac_attitudes.pdf)
 
 ##### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)*  
