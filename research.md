@@ -29,13 +29,15 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 *(with Peter Nencka)*  [(extended abstract)](assets/files/WKKK.pdf)
 
 ##### Divorce and Retirement 
-*(with Rachel Vogt)*
 
+
+<details>
+  <summary>*(with Rachel Vogt)*</summary>
   <p>
   Existing policy encourages married couples to engage in joint-decision making when allocating time among income-earning, household, and leisure activities. Often, it is more eﬃcient for one partner to specialize in household tasks, while the other specializes in earning. Disproportionately, women in heterosexual couples fall into the former camp, taking on the role of secondary earners and engaging in part-time work more often than their male counterparts. 
   This secondary earner status disadvantages divorced women. A feature of the Social Security system tries to insure against this: the spousal benefit. How effective is this policy? We use a regression discontinuity design that exploits the discontinuous feature of the spousal benefit: eligibility is contingent on the marriage lasting must be at least 10 years. Previous research, confirmed by our own preliminary analyses, shows no evidence of manipulation behavior around the cutoff. We thus can compare women around the cutoff to measure the impact of the spousal benefit on financial and mental well-being.
   </p>
-
+</details>
 
 ##### Integrated by Race, Segregated by Sex: Same-Sex Education in the Wake of Brown
 
