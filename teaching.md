@@ -3,7 +3,7 @@ layout: teaching
 title: "Teaching"
 ---
 
-## Courses
+## Teaching
 
 Professionally, teaching informs my research; personally, it delights me. I had the opportunity to design and teach a seminar course on school segregation. The student landing page for that course and course description are included below.
 
@@ -16,10 +16,11 @@ In 1954, the Supreme Court ordered schools to integrate “with all deliberate s
 Understanding school segregation today requires not only an understanding of the Civil Rights movement, but also an appreciation of the history of public education in the United States. The class will proceed chronologically, beginning with de jure segregation and ending with a review of across and within-school segregation today. Throughout, we will repeatedly visit themes inextricable from school segregation: legal institutions, residential segregation, and school finance.  The goals of this class are two fold: to help students gain an understanding of the framework within which school segregation persists today and to give students the confidence to write compelling economic research papers on the origins and consequences of such segregation. Students will receive feedback on the research process at each step of the way. We will also build the researcher's toolkit by reviewing some common empirical strategies used in this literature.
 </details>
 
+#### Summary of Evaluations
 I take pride in creating a welcoming environment in my classroom. Consistent themes across my narrative course evaluations are:
 
 <details>
-<summary><strong>Held students to a high, but fair, standard</strong></summary>
+<summary><i>Held students to a high, but fair, standard</i></summary>
 
 - “She held us to high standards and graded fairly, but offered generous support and flexibility in her office hours to help each student with their empirical research skills. Personally, I had a tough semester with academic and personal challenges which would sometimes affect my performance or attendance in our seminar–– Danielle was so accommodating and supportive while still expecting (and encouraging) a high work ethic from me.”
 - “This is a rigorous course but I think it is well–resourced.”
@@ -27,14 +28,14 @@ I take pride in creating a welcoming environment in my classroom. Consistent the
 </details>
 
 <details>
-<summary><strong>Dedicated considerable time to helping students outside of the classroom</strong></summary>
+<summary><i>Dedicated considerable time to helping students outside of the classroom</i></summary>
 
 - “This has been one of the most rewarding classes I've taken so far. Danielle is a phenomenal TF and dedicates a lot of her time to helping each of us in OH! I definitely have learned how to be a more critical thinker!”
 - “Teacher was very helpful and support and made time to help.”
 </details>
 
 <details>
-<summary><strong>Generated interest in subject material</strong></summary>
+<summary><i>Generated interest in subject material</i></summary>
 
 - “I think this is one of the most interesting classes I have taken. Very glad to have chosen this section!”
 - “I think this class was truly amazing. I learned a ton about the history of school integration, but also learned how various concepts have been proven empirically. I think this class gave me a new appreciation for research, but also the tools you can use in economics to understand history.”
