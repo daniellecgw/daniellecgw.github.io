@@ -5,25 +5,47 @@ title: "Teaching"
 
 ## Courses
 
+Professionally, teaching informs my research; personally, it delights me. I had the opportunity to design and teach a seminar course on school segregation. The student landing page for that course and course description are included below.
+
 [The Evolution of Segregation and Education](https://daniellecgw.github.io/teaching/segregation-ed)
 
-> Danielle was a great preceptor for Econ 970! She was very knowledgeable about this topic and did a great job at introducing us to
-all of the relevant literature. **She was very accessible,** and returned all assignments in a timely fashion. She gave me great feedback
-at every step of the way and was happy to help me during the process of putting together my own research paper. I appreciate all the
-advice that she gave us to succeed in the course, and I think she did a great job of covering both breadth and depth within the
-complex topic of the evolution of segregation in education. It was a pleasure to be enrolled in this section. **It was a very challenging
-course, but also a very rewarding one.** 
+<details>
+<summary><strong>Course Description</strong></summary>
+In 1954, the Supreme Court ordered schools to integrate “with all deliberate speed.”  70 years later, in 2021, an alarming third of K-12 students were attending effectively segregated schools (defined as schools where 75\% or more of students are racially or ethnically homogenous) (GAO, 2022).  How did the U.S. get here? What went wrong? Did anything go right? 
 
-> WOW. Danielle Graves is hands–down one of the top instructors in my economics degree ... Harvard is full of published professors who are fantastic at producing and presenting research,
-but it takes a special kind of skillset to be able to conduct this research and yet also teach the process effectively to students.
-Danielle does both extraordinarily well. She presented us with a wealth of high–level literature, which initially struck me as
-unfamiliar and overwhelming–– but, she efficiently leveraged class time and response paper assignments (which are really great
-for helping me absorb the key takeaways of a research publication) to make each paper accessible, interesting, and beyond that, in
-conversation with other literature. **She held us to high standards and graded fairly,** but offered generous support and flexibility in her
-office hours to help each student with their empirical research skills. Personally, I had a tough semester with academic and
-personal challenges which would sometimes affect my performance or attendance in our seminar–– **Danielle was so
-accommodating and supportive while still expecting (and encouraging) a high work ethic from me. I found that my understanding of
-empirical economics improved significantly, as well as my general confidence and clarity in economic writing.** I am not exaggerating
-when I say that this seminar and **Danielle's mentorship restored my faith in my economics degree,** and inspired me to keep
-pushing forward to find my niche and own my progress in something which was previously difficult and frustrating at times. I am
-genuinely so grateful to have taken her course, and wish her all the best in her future ...
+Understanding school segregation today requires not only an understanding of the Civil Rights movement, but also an appreciation of the history of public education in the United States. The class will proceed chronologically, beginning with de jure segregation and ending with a review of across and within-school segregation today. Throughout, we will repeatedly visit themes inextricable from school segregation: legal institutions, residential segregation, and school finance.  The goals of this class are two fold: to help students gain an understanding of the framework within which school segregation persists today and to give students the confidence to write compelling economic research papers on the origins and consequences of such segregation. Students will receive feedback on the research process at each step of the way. We will also build the researcher's toolkit by reviewing some common empirical strategies used in this literature.
+</details>
+
+I take pride in creating a welcoming environment in my classroom. Consistent themes across my narrative course evaluations are:
+
+<details>
+<summary><strong>Held students to a high, but fair, standard</strong></summary>
+
+- “She held us to high standards and graded fairly, but offered generous support and flexibility in her office hours to help each student with their empirical research skills. Personally, I had a tough semester with academic and personal challenges which would sometimes affect my performance or attendance in our seminar–– Danielle was so accommodating and supportive while still expecting (and encouraging) a high work ethic from me.”
+- “This is a rigorous course but I think it is well–resourced.”
+- “I think the breadth of material covered in the course was impressive. Not only did I feel like I learned a ton about the history of school segregation, but I also found class to be very engaging. I think one of the strengths of this course was the selection of readings we were assigned.”
+</details>
+
+<details>
+<summary><strong>Dedicated considerable time to helping students outside of the classroom</strong></summary>
+
+- “This has been one of the most rewarding classes I've taken so far. Danielle is a phenomenal TF and dedicates a lot of her time to helping each of us in OH! I definitely have learned how to be a more critical thinker!”
+- “Teacher was very helpful and support and made time to help.”
+</details>
+
+<details>
+<summary><strong>Generated interest in subject material</strong></summary>
+
+- “I think this is one of the most interesting classes I have taken. Very glad to have chosen this section!”
+- “I think this class was truly amazing. I learned a ton about the history of school integration, but also learned how various concepts have been proven empirically. I think this class gave me a new appreciation for research, but also the tools you can use in economics to understand history.”
+</details>
+
+<details>
+<summary><strong>Facilitated successful class discussions around sensitive topics</strong></summary>
+
+- “I wrote and presented my paper about a controversial topic, got great discussion and feedback from the class!”
+- “Open–mindedness is finite in the economics department, but the seminar format goes a long way towards combating that.”
+- “Great discussions.”
+</details>
+
+

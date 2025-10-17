@@ -12,7 +12,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ### Working Papers
 
 ##### [Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0)
-*(with Jennifer Withrow)* **(job market paper)**
+*(with Jennifer Withrow)* <p style="color:red">**(job market paper)**</p>
 - [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 
 ##### [How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools](assets/files/williamson_segac_attitudes.pdf)
@@ -36,7 +36,6 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ##### Divorce and Retirement 
 *(with Rachel Vogt)*
-
 <details>
   <summary>Abstract</summary>
   <p>
@@ -44,8 +43,6 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
   This secondary earner status disadvantages divorced women. A feature of the Social Security system tries to insure against this: the spousal benefit. How effective is this policy? We use a regression discontinuity design that exploits the discontinuous feature of the spousal benefit: eligibility is contingent on the marriage lasting must be at least 10 years. Previous research, confirmed by our own preliminary analyses, shows no evidence of manipulation behavior around the cutoff. We thus can compare women around the cutoff to measure the impact of the spousal benefit on financial and mental well-being.
   </p>
 </details>
-
-##### Integrated by Race, Segregated by Sex: Same-Sex Education in the Wake of Brown
 
 ---
 
