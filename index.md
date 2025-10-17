@@ -7,6 +7,6 @@ I'm Danielle Graves Williamson, a 6th year Economics PhD student at Boston Unive
 
 I am a 2025 NAED/Spencer Dissertation Fellow. You can read a write-up of my dissertation [here](https://naeducation.org/awardee/danielle-graves-williamson/). 
 
-I served on the Council of Economic Advisers 2024, where I focused on issues related to education, childcare, and health.
+I served on the White House Council of Economic Advisers 2024, where I focused on issues related to education, childcare, and health.
 
-I will be on the job market during AY 2025-2026.
+I am on the 2025-2026 job market.
