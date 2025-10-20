@@ -7,14 +7,14 @@ title: "Teaching"
 
 Professionally, teaching informs my research; personally, it delights me. I had the opportunity to design and teach a seminar course on school segregation. The student landing page for that course and course description are included below.
 
-[The Evolution of Segregation and Education](https://daniellecgw.github.io/teaching/segregation-ed)
+### [The Evolution of Segregation and Education](https://daniellecgw.github.io/teaching/segregation-ed)
 
-#### Course Description
+###### Course Description
 In 1954, the Supreme Court ordered schools to integrate “with all deliberate speed.”  70 years later, in 2021, an alarming third of K-12 students were attending effectively segregated schools (defined as schools where 75\% or more of students are racially or ethnically homogenous) (GAO, 2022).  How did the U.S. get here? What went wrong? Did anything go right? 
 
 Understanding school segregation today requires not only an understanding of the Civil Rights movement, but also an appreciation of the history of public education in the United States. The class will proceed chronologically, beginning with de jure segregation and ending with a review of across and within-school segregation today. Throughout, we will repeatedly visit themes inextricable from school segregation: legal institutions, residential segregation, and school finance.  The goals of this class are two fold: to help students gain an understanding of the framework within which school segregation persists today and to give students the confidence to write compelling economic research papers on the origins and consequences of such segregation. Students will receive feedback on the research process at each step of the way. We will also build the researcher's toolkit by reviewing some common empirical strategies used in this literature.
 
-#### Summary of Evaluations
+###### Summary of Evaluations
 I take pride in creating a welcoming environment in my classroom. Consistent themes across my narrative course evaluations are:
 
 - *Held students to a high, but fair, standard*
