@@ -25,6 +25,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ##### [The Other Ku Klux Klan: Women and the War on Schools](assets/files/WKKK.pdf)
 *(with Peter Nencka)*  
 
+---
+
 ##### Immigration Policy and Party  
 *(with James Feigenbaum, Maxwell Palmer, and Benjamin Schneer)* 
 <details style="
@@ -45,6 +47,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
   We use a regression discontinuity design that compares narrowly-elected Democrats and Republicans across congressional districts from the 51st to 116th Congress to identify the causal effect of party on congressional action on immigration. We measure immigration positions through two channels: roll call votes on legislation that concerns immigration and the sentiment tone of immigration-related floor speeches from Card et al. 2022. Our results reveal substantial and growing partisan polarization on immigration policy. Democrats are 12.5 to 15 percentage points more likely than Republicans to vote in favor of pro-immigration legislation, with this gap widening significantly over time.
   </p>
 </details> 
+
+---
 
 ##### Divorce and Retirement 
 *(with Rachel Vogt)*
@@ -67,6 +71,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
   This secondary earner status disadvantages divorced women. A feature of the Social Security system tries to insure against this: the spousal benefit. How effective is this policy? We use a regression discontinuity design that exploits the discontinuous feature of the spousal benefit: eligibility is contingent on the marriage lasting must be at least 10 years. Previous research, confirmed by our own preliminary analyses, shows no evidence of manipulation behavior around the cutoff. We thus can compare women around the cutoff to measure the impact of the spousal benefit on financial and mental well-being.
   </p>
 </details>
+
+---
 
 ##### LLM-inating the Past: Historical Document Digitzation at Scale
 *(with Peter Nencka)*
