@@ -6,7 +6,6 @@ permalink: /art/
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
     <div class="row g-5 mb-5">
       <div class="col-md-6">
         <img src="/assets/img/cat_green.jpg" alt="My friend's cat" width="100%">
