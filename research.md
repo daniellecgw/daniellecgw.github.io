@@ -15,7 +15,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ##### [Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0)
 *(with Jennifer Withrow)* **(job market paper)**
-- [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
+- **Media coverage**: [ProPublica](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
 - **Conference presentations**: NBER Race and Stratification Working Group, NBER Development of the American Economy Summer Institute (poster), U.S. Department of Education, Economic History Association, Southern Economic Association, Association of Public Policy and Management, Association of Education Finance and Policy, WeRISE (poster), Vanderbilt Economic History Research Network
 - **Invited talks**: Yale Economic History Lunch, Bowdoin College 
 - **Internal talks**: Harvard / BU Graduate Workshop in Economic History, BU Empirical Micro Reading Group, BU Applied Micro Dissertation Workshop, PREREQ: Previewing Education Research Questions (BU)
