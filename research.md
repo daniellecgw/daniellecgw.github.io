@@ -11,6 +11,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ### Working Papers
 
+---
+
 ##### [Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0)
 *(with Jennifer Withrow)* **(job market paper)**
 - [ProPublica coverage](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
@@ -18,6 +20,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 - **Invited talks**: Yale Economic History Lunch, Bowdoin College 
 - **Internal talks**: Harvard / BU Graduate Workshop in Economic History, BU Empirical Micro Reading Group, BU Applied Micro Dissertation Workshop, PREREQ: Previewing Education Research Questions (BU)
 - **Awards**: [NAED/Spencer](https://naeducation.org/naed-spencer-dissertation-fellowship/) [Dissertation Fellowship](https://naeducation.org/awardee/danielle-graves-williamson/), Cambridge University Press Early-Stage Dissertation Grant [(EHA)](https://eh.net/grants-fellowships/), Best Second Year Paper (BU)
+
+---
 
 ##### [How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools](assets/files/williamson_segac_attitudes.pdf)
 *(with Michael Holcomb)* 
@@ -28,6 +32,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ---
 
 ### Works in Progress
+
+---
 
 ##### [The Other Ku Klux Klan: Women and the War on Schools](assets/files/WKKK.pdf)
 *(with Peter Nencka)*  
