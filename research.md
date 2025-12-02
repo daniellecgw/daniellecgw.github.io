@@ -25,7 +25,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ##### [How Backlash in Schools Shaped the Political Evolution of People and Places: Evidence from All-White Private Schools](assets/files/williamson_segac_attitudes.pdf)
 *(with Michael Holcomb)* 
-- **Presentations**: Southern Economic Association
+- **Conference presentations**: Southern Economic Association
 - **Invited talks**: Yale Economic History Lunch
 - **Internal talks**: Harvard / BU Graduate Workshop in Economic History, BU Applied Micro Dissertation Workshop, Harvard Kennedy School *(presented by coauthor)*
 - **Awards**: Stone Research Grant *(awarded to coauthor)*
@@ -89,7 +89,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ---
 
-##### LLM-inating the Past: Historical Document Digitzation at Scale
+##### LLM-inating the Past: Historical Document Digitization at Scale
 *(with Peter Nencka)*
 <details style="
   margin-top: 8px;
