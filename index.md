@@ -9,4 +9,6 @@ I am a 2025 NAED/Spencer Dissertation Fellow. You can read a write-up of my diss
 
 I served on the White House Council of Economic Advisers 2024, where I focused on issues related to education, childcare, and health.
 
+During the 2026-2027 AY, I will work as a research scholar at Stanford Graduate School of Education.
+
 In 2027, I will start as an assistant professor of economics at Williams College.
