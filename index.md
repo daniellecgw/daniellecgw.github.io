@@ -8,3 +8,5 @@ I'm Danielle Graves Williamson, a research scholar at Stanford. I study how poli
 I graduated from Boston University in 2026, and was a 2025 NAED/Spencer Dissertation Fellow. You can read a write-up of my dissertation, which focused on quantifying the legacy of the all-white private schools that emerged in 20th century as part of a broader strategy to block school integration, [here](https://naeducation.org/awardee/danielle-graves-williamson/). 
 
 I served on the White House Council of Economic Advisers 2024, where I focused on issues related to education, childcare, and health.
+
+You can reach me at dcgw@stanford.edu
