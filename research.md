@@ -16,8 +16,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 ##### [Southern Academies: The Proliferation of All-White Private Schools after *Brown* and Their Legacy for Students](https://www.dropbox.com/scl/fi/fyugfn6en6y324vbhb6gr/dgw_jm_draft.pdf?rlkey=1i2p0dycy9ch9qfj13p0aw1lb&dl=0)
 *(with Jennifer Withrow)* **(job market paper)**
 - **Media coverage**: [ProPublica](https://www.propublica.org/article/alabama-researchers-segregation-academies-school-vouchers)
-- **Conference presentations**: NBER Race and Stratification Working Group, NBER Development of the American Economy Summer Institute (poster), U.S. Department of Education, Economic History Association, Southern Economic Association, Association of Public Policy and Management, Association of Education Finance and Policy, WeRISE (poster), Vanderbilt Economic History Research Network, ASSA, AERA (poster) *(scheduled)*, Society of Labor Economists *(scheduled)*
-- **Invited talks**: Yale Economic History Lunch, Bowdoin College 
+- **Conference presentations**: NBER Race and Stratification Working Group, NBER Development of the American Economy Summer Institute, U.S. Department of Education, Economic History Association, Southern Economic Association, Association of Public Policy and Management, Association of Education Finance and Policy, WeRISE (poster), Vanderbilt Economic History Research Network, ASSA
+- **Invited talks**: Yale Economic History Lunch, Bowdoin College, Yale Joint History Labor/Public Seminar *(scheduled)*
 - **Internal talks**: Harvard / BU Graduate Workshop in Economic History, BU Empirical Micro Reading Group, BU Applied Micro Dissertation Workshop, PREREQ: Previewing Education Research Questions (BU)
 - **Awards**: [NAED/Spencer](https://naeducation.org/naed-spencer-dissertation-fellowship/) [Dissertation Fellowship](https://naeducation.org/awardee/danielle-graves-williamson/), Cambridge University Press Early-Stage Dissertation Grant [(EHA)](https://eh.net/grants-fellowships/), Best Second Year Paper (BU)
 
@@ -38,7 +38,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
 
 ##### [The Other Ku Klux Klan: Women and the War on Schools](assets/files/WKKK.pdf)
 *(with Peter Nencka)*  
-- **Conference presentations**: Mountain West Economic History Conference *(scheduled)*
+- **Conference presentations**: Mountain West Economic History Conference
+- **Internal talks**: Williams College Summer Brownbag
   
 ---
 
@@ -87,8 +88,7 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
   </p>
 </details>
 
----
-
+<!-- 
 ##### LLM-inating the Past: Historical Document Digitization at Scale
 *(with Peter Nencka)*
 <details style="
@@ -108,9 +108,8 @@ Throughout my work, I focus on how the provision of public goods is shaped by ba
   <p>
  We present a workflow to digitize hundreds of thousands of pages of dense, loosely structured documents using large language models (LLMs). Using three case studies, we show that LLMs can approach "gold-standard" human digitization accuracy at a fraction of the cost and compare well against other alternatives. But using LLMs  comes with a significant learning curve, budget uncertainty, and the risk of producing incorrect and difficult-to-check output. We provide a crash course in production-scale LLMs, targeted to a tech-savvy social scientist reader who has used ChatGPT or other web-based AI platforms but who has not yet explored the capabilities of AI APIs. We discuss how to limit risk, manage API budgets, and incorporate human review into an AI workflow.
  </p>
-</details>
+</details> -->
 
----
 
 ### Policy Writing
 
