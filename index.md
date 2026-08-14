@@ -5,8 +5,8 @@ title: "Home"
 
 I'm Danielle Graves Williamson, a research scholar at Stanford. I study how policies and institutions have shaped access to opportunity.  In 2027, I will start as an assistant professor of economics at Williams College.
 
-I graduated from Boston University in 2026, and was a 2025 NAED/Spencer Dissertation Fellow. You can read a write-up of my dissertation, which focused on quantifying the legacy of the all-white private schools that emerged in 20th century as part of a broader strategy to block school integration, [here](https://naeducation.org/awardee/danielle-graves-williamson/). 
+I graduated with my PhD in economics from Boston University in 2026, and was a 2025 NAED/Spencer Dissertation Fellow. You can read a write-up of my dissertation, which focused on quantifying the legacy of the all-white private schools that emerged in 20th century as part of a broader strategy to block school integration, [here](https://naeducation.org/awardee/danielle-graves-williamson/). I am currently a finalist for the Allans Nevins Prize in American Economic History.
 
 I served on the White House Council of Economic Advisers 2024, where I focused on issues related to education, childcare, and health.
 
-You can reach me at dcgw@stanford.edu
+You can reach me at dcgw[ at ]stanford.edu or dgw1[ at ]williams.edu.
